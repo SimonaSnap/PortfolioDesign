@@ -59,15 +59,15 @@ border: 1px solid #FFE25F;
 display: inline;
 }
 
-#topmenu {
+.topmenu {
 background: #f1f1f1;
 padding: 10px 20px;
 border-bottom: 1px solid #e1e1e1;
 border-top: 1px solid #e1e1e1;
 }
-#topmenu ul { margin: 0; padding: 0; list-style-type: none;}
-#topmenu li { display: inline; padding: 0 20px 0 0 }
-#topmenu li a { text-decoration: none; 
+.topmenu ul { margin: 0; padding: 0; list-style-type: none;}
+.topmenu li { display: inline; padding: 0 20px 0 0 }
+.topmenu li a { text-decoration: none; 
 }
 
 .search { float: right; }
@@ -92,9 +92,9 @@ list-style-type: none; margin: 0; padding: 0 10px 10px 10px;
 #menu ul li a { color: #12c; text-decoration: none; border-bottom: 1px dotted #12c; }
 #menu ul li a:hover { color: #c12; border-bottom: 1px dotted #c12; }
 
-#content { float: left; width: 580px; margin: 10px 0 40px 20px;}
-#content h2 { font-weight: normal; font-size: 22px; line-height: 33px; }
-#content h3 { font-size: 17px; font-weight: normal; }
+.content { float: left; width: 580px; margin: 10px 0 40px 20px;}
+.content h2 { font-weight: normal; font-size: 22px; line-height: 33px; }
+.content h3 { font-size: 17px; font-weight: normal; }
 
 .cleft { float: left; width: 280px; margin: 10px 0; }
 .cright { float: right; width: 280px; margin: 10px 0; }
