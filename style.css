@@ -99,7 +99,7 @@ list-style-type: none; margin: 0; padding: 0 10px 10px 10px;
 .cleft { float: left; width: 280px; margin: 10px 0; }
 .cright { float: right; width: 280px; margin: 10px 0; }
 
-#footer { 
+.footer { 
 -webkit-border-bottom-right-radius: 10px;
 -webkit-border-bottom-left-radius: 10px;
 -moz-border-radius-bottomright: 10px;
@@ -107,13 +107,13 @@ list-style-type: none; margin: 0; padding: 0 10px 10px 10px;
 border-bottom-right-radius: 10px;
 border-bottom-left-radius: 10px;
 
-background: #3f3f3f;
-color: #fff;
+background: #8eb8fa;
+color: #262626;
 padding: 20px;
 border-top: 1px solid #1f1f1f;
 }
-#footer a { color: #fff; text-decoration: none; border-bottom: 1px dotted #fff; }
-#footer a:hover { border-bottom: 1px dotted #ccc; }
+.footer a { color: #fff; text-decoration: none; border-bottom: 1px dotted #fff; }
+.footer a:hover { border-bottom: 1px dotted #ccc; }
 
 .left { float: left; }
 .right { float: right; }
